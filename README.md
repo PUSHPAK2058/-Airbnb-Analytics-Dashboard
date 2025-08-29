@@ -23,6 +23,7 @@ Revenue metrics and performance indicators
 Data cleaning and ETL with Python
 
 DAX calculations for occupancy, revenue, and pricing optimization.
+<img width="1425" height="796" alt="image" src="https://github.com/user-attachments/assets/1c5f9b7b-16d5-4c16-a437-a37f74f45058" />
 
 Visuals Included
 Filled map for listing density and revenue by region
@@ -32,6 +33,7 @@ Bar and line charts for bookings and price trends
 Tables ranking top hosts and listings
 
 Slicers for filtering by location, room type, date, etc.
+<img width="1412" height="777" alt="image" src="https://github.com/user-attachments/assets/bade69fc-1a41-47c9-aa8e-4db3960fe709" />
 
 Methodology
 Explain data cleaning steps, feature engineering, chart design, and analytical approach. Mention tools used (Power BI, Python, DAX).
